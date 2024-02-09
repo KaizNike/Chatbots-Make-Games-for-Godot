@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Copilot - Pong - Try 2"
+run/main_scene="res://CopilotPong.tscn"
 config/icon="res://icon.png"
 
 [gui]
